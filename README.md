@@ -9,7 +9,7 @@
 Software Development Engineer in Test - test automation, development tooling, infrastructure
 
 - **Learning :** Ruby On Rails | Kubernetes :octocat:
-- **Languages :** Ruby, JavaScript, Typescript, Java :neckbeard:
+- **Languages :** Ruby, JavaScript, Typescript, Java, Shell :neckbeard:
 - **Hobbies :** Skiing and motorcycles :motorcycle: :skier:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
