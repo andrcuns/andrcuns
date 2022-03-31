@@ -1,16 +1,16 @@
-### Hi there 👋
+### About
 
-<!--
-**andrcuns/andrcuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development Engineer in Test - test automation, development tooling, infrastructure
 
-Here are some ideas to get you started:
+- **Learning :** Ruby On Rails | Kubernetes :octocat:
+- **Languages :** Ruby, JavaScript, Typescript, Java, Shell :neckbeard:
+- **Hobbies :** Skiing and motorcycles :motorcycle: :skier:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+[![Andrejs github stats](https://github-readme-stats.vercel.app/api?username=andrcuns&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrcuns&layout=compact&hide=CSS,XSLT)](https://github.com/anuraghazra/github-readme-stats)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
